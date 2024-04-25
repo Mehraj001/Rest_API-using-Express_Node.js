@@ -1,0 +1,51 @@
+[
+      {
+            "name":"Iphone",
+            "price":154,
+            "featured":true,
+            "company":"apple"
+
+      },
+      {
+            "name":"Iphone1",
+            "price":154,
+            "featured":true,
+            "company":"apple"
+
+      },
+      {
+            "name":"Iphone1",
+            "price":154,
+            "featured":true,
+            "company":"apple"
+
+      },
+      {
+            "name":"Iphone",
+            "price":154,
+            "featured":true,
+            "company":"apple"
+
+      },
+      {
+            "name":"Iphone",
+            "price":154,
+            "featured":true,
+            "company":"apple"
+
+      },
+      {
+            "name":"Iphone5",
+            "price":154,
+            "featured":true,
+            "company":"apple"
+
+      },
+      {
+            "name":"Iphone",
+            "price":154,
+            "featured":true,
+            "company":"apple"
+
+      }
+]
